@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Beneficiaries_TakeHome</string>
+    <string name="beneficiary_List">Beneficiaries</string>
+    <string name="beneficiary_details">Beneficiary Details</string>
+</resources>
